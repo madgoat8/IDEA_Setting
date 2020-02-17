@@ -5,12 +5,8 @@
   <action id="Console.TableResult.DeleteRows" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
-  <action id="EditorDeleteLine" />
-  <action id="EditorDeleteToLineEnd">
-    <keyboard-shortcut first-keystroke="meta d" second-keystroke="f" />
-  </action>
-  <action id="EditorDeleteToLineStart">
-    <keyboard-shortcut first-keystroke="meta d" second-keystroke="s" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
