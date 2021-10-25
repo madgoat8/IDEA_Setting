@@ -1,0 +1,9 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/code/yuanwei/cm_passenger_flow_statistics/huangShan" />
+      </list>
+    </option>
+  </component>
+</application>
