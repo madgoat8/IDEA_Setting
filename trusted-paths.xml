@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/code/yuanwei/cm_passenger_flow_statistics/huangShan" />
+        <option value="$USER_HOME$/code/yuanwei/health_info" />
       </list>
     </option>
   </component>
